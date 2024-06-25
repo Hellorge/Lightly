@@ -83,7 +83,7 @@ Taken from https://github.com/n4n0GH/hello
 
 #### Void Linux
 ```
-sudo xbps-install extra-cmake-modules base-devel kdecoration-devel kguiaddons-devel kconfigwidgets-devel kwindowsystem-devel kiconthemes-devel
+sudo xbps-install qt6-base qt6-base-devel qt6-tools-devel extra-cmake-modules base-devel kdecoration-devel kguiaddons-devel kconfigwidgets-devel kwindowsystem-devel kiconthemes-devel
 ```
 
 #### Ubuntu
