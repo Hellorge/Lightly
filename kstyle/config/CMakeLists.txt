@@ -34,5 +34,3 @@ install(TARGETS lightly-settings ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})
 ecm_install_icons(ICONS sc-apps-lightly-settings.svgz
     DESTINATION ${KDE_INSTALL_ICONDIR}
     THEME hicolor )
-
-

@@ -16,6 +16,7 @@ set(lightlydecoration_SRCS
     lightlysettingsprovider.cpp
     lightlysizegrip.cpp
 )
+
 ### build library
 kconfig_add_kcfg_files(lightlydecoration_SRCS lightlysettings.kcfgc)
 add_library(lightlydecoration MODULE
